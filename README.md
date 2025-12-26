@@ -1,2 +1,0 @@
-# UNREAD
-Mini Laravel project
